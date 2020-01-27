@@ -1,0 +1,5 @@
+﻿  HillCipher.cpp
+D:\AinShams\4.FourthYear\FirstTerm\Security\Contests\Constest1\D_Hill_Cipher\D_Hill_Cipher\HillCipher.cpp(15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\AinShams\4.FourthYear\FirstTerm\Security\Contests\Constest1\D_Hill_Cipher\D_Hill_Cipher\HillCipher.cpp(64): warning C4018: '<': signed/unsigned mismatch
+D:\AinShams\4.FourthYear\FirstTerm\Security\Contests\Constest1\D_Hill_Cipher\D_Hill_Cipher\HillCipher.cpp(66): warning C4018: '<': signed/unsigned mismatch
+  D_Hill_Cipher.vcxproj -> D:\AinShams\4.FourthYear\FirstTerm\Security\Contests\Constest1\D_Hill_Cipher\Debug\D_HillCipher.exe

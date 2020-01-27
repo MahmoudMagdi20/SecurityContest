@@ -1,0 +1,6 @@
+﻿  S-Boxes.cpp
+D:\AinShams\4.FourthYear\FirstTerm\Security\Contests\Contest2\C_S-Boxes\C_S-Boxes\S-Boxes.cpp(42,1): warning C4244: '+=': conversion from 'double' to 'unsigned __int64', possible loss of data
+D:\AinShams\4.FourthYear\FirstTerm\Security\Contests\Contest2\C_S-Boxes\C_S-Boxes\S-Boxes.cpp(242,21): warning C4018: '<': signed/unsigned mismatch
+D:\AinShams\4.FourthYear\FirstTerm\Security\Contests\Contest2\C_S-Boxes\C_S-Boxes\S-Boxes.cpp(264,16): warning C4244: 'argument': conversion from 'unsigned __int64' to 'const unsigned int', possible loss of data
+D:\AinShams\4.FourthYear\FirstTerm\Security\Contests\Contest2\C_S-Boxes\C_S-Boxes\S-Boxes.cpp(264,21): warning C4244: 'argument': conversion from 'unsigned __int64' to 'const unsigned int', possible loss of data
+  C_S-Boxes.vcxproj -> D:\AinShams\4.FourthYear\FirstTerm\Security\Contests\Contest2\C_S-Boxes\Debug\C_S-Boxes.exe

@@ -1,0 +1,6 @@
+﻿  DES_Function.cpp
+D:\AinShams\4.FourthYear\FirstTerm\Security\Contests\Contest2\D_DES_Function\D_DES_Function\DES_Function.cpp(48,1): warning C4244: '+=': conversion from 'double' to 'unsigned __int64', possible loss of data
+D:\AinShams\4.FourthYear\FirstTerm\Security\Contests\Contest2\D_DES_Function\D_DES_Function\DES_Function.cpp(335,21): warning C4018: '<': signed/unsigned mismatch
+D:\AinShams\4.FourthYear\FirstTerm\Security\Contests\Contest2\D_DES_Function\D_DES_Function\DES_Function.cpp(357,22): warning C4244: 'argument': conversion from 'unsigned __int64' to 'const unsigned int', possible loss of data
+D:\AinShams\4.FourthYear\FirstTerm\Security\Contests\Contest2\D_DES_Function\D_DES_Function\DES_Function.cpp(357,27): warning C4244: 'argument': conversion from 'unsigned __int64' to 'const unsigned int', possible loss of data
+  D_DES_Function.vcxproj -> D:\AinShams\4.FourthYear\FirstTerm\Security\Contests\Contest2\D_DES_Function\Debug\D_DES_Function.exe

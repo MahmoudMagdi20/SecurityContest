@@ -1,0 +1,3 @@
+﻿  C_GetReadyForTheArmy.cpp
+D:\AinShams\4.FourthYear\FirstTerm\Security\Contests\Contest3\C_GetReadyForTheArmy\C_GetReadyForTheArmy\C_GetReadyForTheArmy.cpp(47,1): warning C4244: '+=': conversion from 'double' to 'unsigned __int64', possible loss of data
+  C_GetReadyForTheArmy.vcxproj -> D:\AinShams\4.FourthYear\FirstTerm\Security\Contests\Contest3\C_GetReadyForTheArmy\Debug\C_GetReadyForTheArmy.exe

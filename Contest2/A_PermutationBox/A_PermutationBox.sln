@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "A_PermutationBox", "A_PermutationBox\A_PermutationBox.vcxproj", "{B303535B-3C73-40FA-BB4F-565BC0CE214F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B303535B-3C73-40FA-BB4F-565BC0CE214F}.Debug|x64.ActiveCfg = Debug|x64
+		{B303535B-3C73-40FA-BB4F-565BC0CE214F}.Debug|x64.Build.0 = Debug|x64
+		{B303535B-3C73-40FA-BB4F-565BC0CE214F}.Debug|x86.ActiveCfg = Debug|Win32
+		{B303535B-3C73-40FA-BB4F-565BC0CE214F}.Debug|x86.Build.0 = Debug|Win32
+		{B303535B-3C73-40FA-BB4F-565BC0CE214F}.Release|x64.ActiveCfg = Release|x64
+		{B303535B-3C73-40FA-BB4F-565BC0CE214F}.Release|x64.Build.0 = Release|x64
+		{B303535B-3C73-40FA-BB4F-565BC0CE214F}.Release|x86.ActiveCfg = Release|Win32
+		{B303535B-3C73-40FA-BB4F-565BC0CE214F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBDD958D-6BA3-4D83-AB1D-FED0AE318000}
+	EndGlobalSection
+EndGlobal

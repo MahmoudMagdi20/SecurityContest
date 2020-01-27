@@ -1,0 +1,6 @@
+﻿  DES_Encryption.cpp
+D:\AinShams\4.FourthYear\FirstTerm\Security\Contests\Contest2\F_DES_Encryption\F_DES_Encryption\DES_Encryption.cpp(48,1): warning C4244: '+=': conversion from 'double' to 'unsigned __int64', possible loss of data
+D:\AinShams\4.FourthYear\FirstTerm\Security\Contests\Contest2\F_DES_Encryption\F_DES_Encryption\DES_Encryption.cpp(335,21): warning C4018: '<': signed/unsigned mismatch
+D:\AinShams\4.FourthYear\FirstTerm\Security\Contests\Contest2\F_DES_Encryption\F_DES_Encryption\DES_Encryption.cpp(357,22): warning C4244: 'argument': conversion from 'unsigned __int64' to 'const unsigned int', possible loss of data
+D:\AinShams\4.FourthYear\FirstTerm\Security\Contests\Contest2\F_DES_Encryption\F_DES_Encryption\DES_Encryption.cpp(357,27): warning C4244: 'argument': conversion from 'unsigned __int64' to 'const unsigned int', possible loss of data
+  F_DES_Encryption.vcxproj -> D:\AinShams\4.FourthYear\FirstTerm\Security\Contests\Contest2\F_DES_Encryption\Debug\F_DES_Encryption.exe

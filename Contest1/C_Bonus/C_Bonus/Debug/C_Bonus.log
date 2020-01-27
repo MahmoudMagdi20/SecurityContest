@@ -1,0 +1,4 @@
+﻿  Bonus.cpp
+D:\AinShams\4.FourthYear\FirstTerm\Security\Contests\Constest1\C_Bonus\C_Bonus\Bonus.cpp(51): warning C4018: '<': signed/unsigned mismatch
+D:\AinShams\4.FourthYear\FirstTerm\Security\Contests\Constest1\C_Bonus\C_Bonus\Bonus.cpp(91): warning C4018: '<': signed/unsigned mismatch
+  C_Bonus.vcxproj -> D:\AinShams\4.FourthYear\FirstTerm\Security\Contests\Constest1\C_Bonus\Debug\C_Bonus.exe
